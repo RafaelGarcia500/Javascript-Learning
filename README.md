@@ -1,3 +1,3 @@
-# git__test
-My first GitHub repost
+# Javascript
 Hello World!
+These are my first steps on Javascript
