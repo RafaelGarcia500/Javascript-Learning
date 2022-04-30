@@ -8,6 +8,13 @@ let age = prompt(`Let me know your age`)
 
 let results = year - age 
 
+    confirm("Do you confirm our terms of service?")
+    if(results < 2005){
+        alert(`Hi ${name}, Welcome to my blank website.` )
+    }else{
+        alert(`Sorry ${name},but you did not make the cut to be in my blank website`)
+    }
+        
  
   
      
