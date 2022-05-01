@@ -7,7 +7,7 @@ let login= prompt(`Hello again ${user}!, Submit your email to enter`)
 if(login==false || login==null){
     alert(`Access denied`)
 }else if( login !== email){
-    alert(`Wrong email.`)
+    alert(`Wrong email!.`)
 }else {
     if(login===email){
    pw= prompt(`Welcome ${user}, enter your password`)
