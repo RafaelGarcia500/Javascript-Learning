@@ -1,23 +1,9 @@
-let user=`Admin`
-let password=`TheMaster`
+let offical_name=`ECMAScript`
 
-let login= prompt(`Who is there?`)
+let name= prompt(`What's the “official” name of JavaScript?`)
 
- if (login == false || login==null){
-     alert(`Canceled`)
- }else if(login != user){
-     alert(`I do not know you`)
- }else{
-     if(login== user){
-       pwr= prompt(`Password?`)}
- }
-
- if(pwr ==false || pwr==null){
-     alert(`Canceled`)
- }else if(pwr !=  password){
-     alert(`Wrong Password`)
- }else{
-     if(pwr === password){
-         alert(`Welcome!`)
-     }
- }
+if(name!==`ECMAScript`){
+    alert(`You don't know? “ECMAScript”!`)
+}else{
+    alert(`Right!`)
+}
