@@ -2,4 +2,4 @@
 Hello World!
 These are my first steps on Javascript
 
--CUrrently learning the fundamentals, keep struggling with Functions
+-Currently learning the fundamentals, keep struggling with Functions
