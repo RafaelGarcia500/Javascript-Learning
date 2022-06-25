@@ -1,12 +1,8 @@
-let name = `John`
-let admin = name
-alert(admin)
+let a = 10 
+console.log(a)
 
+9 * a
 
+let b = 7 * a
 
-let planetEarth = `Earth`
-let currentUserName = `John`
-
-
-const BIRTHDAY = `18.04.1982`
-const age = someCode(BIRTHDAY)
+console.log(b)
